@@ -1,5 +1,1 @@
-## That is not dead which can eternal lie, and with strange aeons even death may die
-
-
-
-<iframe src="https://uploads.knightlab.com/storymapjs/ad3b110f03b95a0af94e330b452bdcf9/druha-krizova-vyprava/index.html" width=800 height=600></iframe>
+<iframe src="https://uploads.knightlab.com/storymapjs/c90a6c6739e49a9f359604662bcef189/mural/index.html" width=800 height=600></iframe>
